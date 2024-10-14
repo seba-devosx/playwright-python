@@ -1,0 +1,18 @@
+playwrigth
+pytest
+flask
+Sql alchemy
+
+
+entender el funcionamiento de playwright y como pytest interactua con el
+flask como hacer una api(Completado), como se integra pytest con flask
+como integrar sqlalchmey
+
+sus usos y combinaciones 
+
+-flask-> se pueden hacer apis, paguinas web y contiene base de datos sqllite,
+-SqlAlchemy->Orm para poder manipular la base de datos 
+
+-Pytest-> se puede usar para poder escribir test de manera eficiente en python
+-playwright->se puede usar para poder hacer pruebas funcionales con navegadores
+-se puede conbinar playwright+pytest para poder generar reportes en formato html de las pruebas

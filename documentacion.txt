@@ -1,0 +1,7 @@
+playwrigth es como selenium sirve para pode hacer pruebas funcionales a traves del navegador
+se puede complementar con pytest para ya que permite la generacion de reportes
+
+Dependencias necesarias:
+-> pip install pytest pytest-playwright pytest-html
+
+playwright codegen demo.playwright.dev/todomvc 
